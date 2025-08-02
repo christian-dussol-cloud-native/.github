@@ -6,6 +6,7 @@ A collection of cloud-native resources and educational materials.
 
 - [Cloud Native Knowledge Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) - Educational resources
 - [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Kyverno policies for compliance and security in financial environments
+- [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) - Cloud security 
 
 ## 📚 About
 
