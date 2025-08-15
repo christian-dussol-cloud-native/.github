@@ -10,7 +10,7 @@ A collection of cloud-native resources and educational materials.
 
 ## 📚 About
 
-This organization hosts resources that bridge the gap between cloud-native technologies and financial services requirements, with a focus on governance, security, and compliance.
+This organization hosts resources that bridge the gap between cloud-native technologies and financial services requirements, with a focus on governance, compliance and security.
 
 Maintained by [Christian Dussol](https://github.com/christiandussol), Engineering Manager at Finastra.
 
