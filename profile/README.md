@@ -5,6 +5,7 @@ A collection of cloud-native resources and educational materials.
 ## 🌟 Featured Projects
 
 - [Cloud Native Knowledge Hub](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub) - Educational resources
+- [CNCF Project Focus Series](https://github.com/christian-dussol-cloud-native/cloud-native-knowledge-hub/blob/main/CNCF-Project-Focus-Series.md) - Educational resources
 - [Crossplane](https://github.com/christian-dussol-cloud-native/crossplane) - Educational resources
 - [Knative](https://github.com/christian-dussol-cloud-native/knative) - Educational resources
 - [Kubernetes](https://github.com/christian-dussol-cloud-native/kubernetes) - Exploration, studies, educational resources
