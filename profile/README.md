@@ -11,6 +11,7 @@ A collection of cloud-native resources and educational materials.
 - [Knative](https://github.com/christian-dussol-cloud-native/knative) - Educational resources
 - [Kubernetes](https://github.com/christian-dussol-cloud-native/kubernetes) - Exploration, studies, educational resources
 - [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Kyverno policies for compliance and security in financial environments
+- [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) - Metrics collection, alerting and monitoring for cloud-native environments
 - [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) - Cloud security 
 
 ## 📚 About
