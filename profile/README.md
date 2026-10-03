@@ -13,6 +13,7 @@ A collection of cloud-native resources and educational materials.
 - [Kyverno](https://github.com/christian-dussol-cloud-native/kyverno) - Kyverno policies for compliance and security in financial environments
 - [Opentelemetry](https://github.com/christian-dussol-cloud-native/opentelemetry) - Vendor-neutral observability framework for traces, metrics and logs
 - [Prometheus](https://github.com/christian-dussol-cloud-native/prometheus) - Metrics collection, alerting and monitoring for cloud-native environments
+- [Istio](https://github.com/christian-dussol-cloud-native/istio) - Service mesh for mTLS, identity-based authorization, traffic management and L7 metrics
 - [Cloud Security](https://github.com/christian-dussol-cloud-native/cloud-security) - Cloud security 
 
 ## 📚 About
